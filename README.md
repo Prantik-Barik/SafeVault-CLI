@@ -1,6 +1,5 @@
-# SafeVault CLI
-### _A File Hider CLI App_
----
+# SafeVault CLI | _A File Hider CLI App_
+
 ### Overview
 ---
 
@@ -40,13 +39,19 @@
 
 - Home Screen
 
-    ![Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
+  ![register-screen](https://github.com/Prantik-Barik/SafeVault-CLI/assets/107944461/ebfb9aa6-9ba9-497f-85ef-637f1214056f)
+
+  ![login-screen](https://github.com/Prantik-Barik/SafeVault-CLI/assets/107944461/2b87c12d-40b8-4e5e-add3-78c3641ce050)
+
 - File Hidding Menu
+
+  ![file_menu](https://github.com/Prantik-Barik/SafeVault-CLI/assets/107944461/e31374d4-6ef3-470a-bd86-657d9b446f7d)
     
-    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 - Authentication Mail
 
-    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+  ![mail-screen](https://github.com/Prantik-Barik/SafeVault-CLI/assets/107944461/a6ea5eae-de39-4881-8494-a285b316ac7c)
+
 - MySQL Database 
     
-    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+  ![sql_screen](https://github.com/Prantik-Barik/SafeVault-CLI/assets/107944461/9b27c7d3-29a9-4161-a72f-a88935e94f3f)
+
