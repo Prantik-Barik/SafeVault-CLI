@@ -1,9 +1,9 @@
-# SafeVault CLI | _A File Hider CLI App_
+# SafeVault | _A File Hider CLI App_
 
 ### Overview
 ---
 
-> **Welcome to the SafeVault CLI App**, a Java-based marvel that elevates file security to an art form. This application seamlessly integrates the power of **MySQL** for data storage and the **Java Mail API** for an added layer of authentication, providing a sophisticated solution to discreetly hide and manage your files.
+> **Welcome to the SafeVault App**, a Java-based marvel that elevates file security to an art form. This application seamlessly integrates the power of **MySQL** for data storage and the **Java Mail API** for an added layer of authentication, providing a sophisticated solution to discreetly hide and manage your files.
 
 > **Imagine a world where your sensitive documents are tucked away in a secure MySQL database, shielded from prying eyes**, picture the convenience of a command-line interface that empowers you to effortlessly hide, view, and unhide files with just a few keystrokes. The SafeVault CLI App is not just a utility; it's your digital vault, offering a blend of robust functionality and elegant simplicity.
 
